@@ -5,7 +5,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="lib" path="lib/poi/lib/log4j-1.2.17.jar"/>
 	<classpathentry kind="lib" path="lib/poi/poi-3.13-20150929.jar"/>
-	<classpathentry kind="lib" path="/Volumes/Transcend/Document/workspace/Demo/lib/dom4j-2.0.0.jar" sourcepath="lib/dom4j-2.0.0-sources.jar"/>
 	<classpathentry kind="lib" path="lib/log4j-api-2.3.jar"/>
 	<classpathentry kind="lib" path="lib/log4j-core-2.3.jar"/>
 	<classpathentry kind="lib" path="lib/reportng-1.1.5.jar"/>
@@ -53,5 +52,6 @@
 	<classpathentry kind="lib" path="lib/selenium-server-3.3.1/lib/xalan-2.7.2.jar"/>
 	<classpathentry kind="lib" path="lib/selenium-server-3.3.1/lib/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="lib/selenium-server-3.3.1/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-2.0.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
